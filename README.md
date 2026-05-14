@@ -21,12 +21,19 @@ A SaaS company has 5,000 signups but only 7.8% ever become paying customers. Thi
 
 ## Funnel Breakdown
 
-Signup               5,000   (100%)
-Onboarding Start     3,930   (78.6%)    ← 21.4% never start onboarding
-Onboarding Complete  2,073   (41.5%)    ← 47.3% drop at completion  ⚠️
-Trial Start          1,301   (26.0%)    ← 37.2% drop
-Payment Initiated      506   (10.1%)    ← 61.1% drop  🚨 CRITICAL
-Payment Success        392    (7.8%)    ← 22.5% payment failure rate
+| Stage                | Users | Conversion % | Drop-off |
+|---------------------|-------|--------------|----------|
+| Signup              | 5,000 | 100%         | —        |
+| Onboarding Start    | 3,930 | 78.6%        | 21.4%    |
+| Onboarding Complete | 2,073 | 41.5%        | 47.3%    |
+| Trial Start         | 1,301 | 26.0%        | 37.2%    |
+| Payment Initiated   | 506   | 10.1%        | 61.1%    |
+| Payment Success     | 392   | 7.8%         | 22.5%    |
+
+### Key Insights : 
+- Major drop at **Payment Initiation (61.1%)** → Indicates strong purchase friction
+- Significant loss during **Onboarding Completion (47.3%)** → UX or complexity issue
+- 21.4% users never start onboarding → Weak activation or unclear value proposition
 
 ## Dashboard Snapshots
 ### Executive Summary :
