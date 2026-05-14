@@ -9,7 +9,25 @@ Not just a data cleanup exercise, a business problem with a dollar sign on it.
 - [Funnel Breakdown](#funnel-breakdown)
 - [Top 3 Recommendations](top-3-recommendations)
 - [Tech Stack](#tech-stack)
+- [Dashboard Snapshots](#dashboard-snapshots)
 
 
 ## The Business Problem
 A SaaS company has 5,000 signups but only 7.8% ever become paying customers. This project diagnoses exactly where and why users are dropping off, quantifies the revenue impact, and delivers three specific, actionable recommendations.
+
+## Key Findings
+
+
+
+## Funnel Breakdown
+
+Signup               5,000   (100%)
+Onboarding Start     3,930   (78.6%)    ← 21.4% never start onboarding
+Onboarding Complete  2,073   (41.5%)    ← 47.3% drop at completion  ⚠️
+Trial Start          1,301   (26.0%)    ← 37.2% drop
+Payment Initiated      506   (10.1%)    ← 61.1% drop  🚨 CRITICAL
+Payment Success        392    (7.8%)    ← 22.5% payment failure rate
+
+## Dashboard Snapshots
+### Executive Summary :
+
