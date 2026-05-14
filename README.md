@@ -31,3 +31,6 @@ Payment Success        392    (7.8%)    ← 22.5% payment failure rate
 ## Dashboard Snapshots
 ### Executive Summary :
 
+<img width="1295" height="723" alt="Screenshot 2026-05-15 000217" src="https://github.com/user-attachments/assets/5230d075-084e-4baa-9d85-5ed06f8c426e" />
+
+
