@@ -1,4 +1,4 @@
-# Improving-SaaS-Conversion-Funnel-From-Signup-to-Paid-Users (In-progress)
+# Improving-SaaS-Conversion-Funnel-From-Signup-to-Paid-Users Using AI (In-progress)
 From Signup → Paid: A Revenue Intelligence Project
 
 Not just a data cleanup exercise, a business problem with a dollar sign on it.
