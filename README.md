@@ -14,7 +14,7 @@ Not just a data cleanup exercise, a business problem with a dollar sign on it.
 
 
 ## The Business Problem
-A SaaS company has 5,000 signups but only 7.8% ever become paying customers. This project diagnoses exactly where and why users are dropping off, quantifies the revenue impact, and delivers three specific, actionable recommendations.
+A SaaS company has 221K signups but only 7.8% ever become paying customers. This project diagnoses exactly where and why users are dropping off, quantifies the revenue impact, and delivers three specific, actionable recommendations.
 
 ## Data Quality
 **8 Defects Fixed Before Analysis**
@@ -35,7 +35,7 @@ A SaaS company has 5,000 signups but only 7.8% ever become paying customers. Thi
 
 | Stage                | Users | Conversion % | Drop-off |
 |---------------------|-------|--------------|----------|
-| Signup              | 5,000 | 100%         | —        |
+| Signup              | 221,000 | 100%         | —        |
 | Onboarding Start    | 3,930 | 78.6%        | 21.4%    |
 | Onboarding Complete | 2,073 | 41.5%        | 47.3%    |
 | Trial Start         | 1,301 | 26.0%        | 37.2%    |
